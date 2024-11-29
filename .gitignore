@@ -3,3 +3,4 @@ venv*
 *.zip
 *.tgz
 *.pyc
+.vscode*
